@@ -9,5 +9,3 @@ applications:
   - mydb
   stack: cflinuxfs2
   - demo-git
-  stack: cflinuxfs2
-  

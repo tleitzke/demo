@@ -8,6 +8,6 @@ applications:
   services:
   - mydb
   stack: cflinuxfs2
-  - demo-git:
+  - demo-git
   stack: cflinuxfs2
   

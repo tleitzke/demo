@@ -6,5 +6,4 @@ applications:
   routes:
   - route: demo-invitational-justiciarship.cfapps.io
   services:
-  - mydb
   - demo-git

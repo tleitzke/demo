@@ -15,7 +15,3 @@ security:
     name: dstashek  
     password: Snoopy123
           
----
-
-info:
-  description: Training configuration repo

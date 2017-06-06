@@ -7,5 +7,4 @@ applications:
   - route: demo-invitational-justiciarship.cfapps.io
   services:
   - mydb
-  stack: cflinuxfs2
   - demo-git

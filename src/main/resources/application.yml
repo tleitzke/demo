@@ -12,8 +12,8 @@ spring:
   
 security:
   user:
-    name: {username}
-    password: {password}
+    name: dstashek  
+    password: Snoopy123
           
 ---
 

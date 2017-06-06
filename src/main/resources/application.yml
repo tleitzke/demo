@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Dstashek/demo.git
+          uri: ${vcap.services.demo-git.credentials.paramKey}
           # ONLY include username and pwd if the repo is private
           username: 
           password: 

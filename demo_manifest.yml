@@ -1,0 +1,13 @@
+applications:
+- name: demo
+  instances: 1
+  memory: 512M
+  disk_quota: 512M
+  routes:
+  - route: demo-invitational-justiciarship.cfapps.io
+  services:
+  - mydb
+  stack: cflinuxfs2
+  - demo-git:
+  stack: cflinuxfs2
+  

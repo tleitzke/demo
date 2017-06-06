@@ -13,7 +13,7 @@ github_pipelines_repo_branch: master # don't change
 version_bucket: rscale-training-bucket # don't change
 version_bucket_region_name: us-west-2 # don't change
 
-version_key: DStashek-demo-0.0.1 # set to '<first_initial><lastname>-demo-version'.  ex: sgreenberg-demo-version
+version_key: DStashek-demo-version # set to '<first_initial><lastname>-demo-version'.  ex: sgreenberg-demo-version
 initial_version: 0.0.1
 
 artifact_regexp: DStashek-demo-(.*).jar # set to '<first_initial><lastname>-demo-(.*).jar'.  ex: sgreenberg-demo-(.*).jar
